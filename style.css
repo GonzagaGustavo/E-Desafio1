@@ -3,7 +3,7 @@
     box-sizing: border-box;
 }
 body {
-    height: 100vh;
+    height: calc(99vh - 1px);
     background-color: #444;
     display: flex;
 }
